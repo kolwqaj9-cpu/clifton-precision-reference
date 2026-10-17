@@ -1,0 +1,28 @@
+site_name: "Precision Metal Stamping Shop Record"
+site_url: https://clifton-precision-reference.readthedocs.io/
+site_description: "Precision Metal Stamping Shop Record: preserved shop record index."
+site_author: "Clifton Precision Archive"
+copyright: "Preserved shop record index."
+
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: indigo
+
+nav:
+  - Reference: index.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  generator: false
