@@ -43,11 +43,10 @@ Preserved shop record for cliftonprecision.com. The former plant is not quoting 
 
 See the full index at [cliftonprecision.com](https://cliftonprecision.com/).
 
-Service pages maintained with this archive
-================================
+## Service pages maintained with this archive
 
 The reference notes above support the production work documented on the shop's own service pages:
 
-* `Progressive Die Stamping — Specification Guide <https://https://cliftonprecision.com/services/progressive-die-stamping.html>`_ — How progressive die stamping jobs are scoped: strip layout, carrier design, pilot strategy, scrap control, and volume payback, with the preserved Clifton P
-* `Metal Stamping Tooling — Specification Guide <https://https://cliftonprecision.com/services/metal-stamping-tooling.html>`_ — Specify metal stamping tooling: die type, punch and die material and hardness, stroke life, cost drivers, and what buyers should own after the tool is buil
-* `Stamping Die Maintenance — Specification Guide <https://https://cliftonprecision.com/services/stamping-die-maintenance.html>`_ — Stamping die maintenance guide: sharpening intervals, life lost per grind, punch and button wear limits, stripper and guide checks, and first-article drift
+* **[Progressive Die Stamping — Specification Guide](https://cliftonprecision.com/services/progressive-die-stamping.html)** — How progressive die stamping jobs are scoped: strip layout, carrier design, pilot strategy, scrap control, and volume payback, with the preserved Clifton P
+* **[Metal Stamping Tooling — Specification Guide](https://cliftonprecision.com/services/metal-stamping-tooling.html)** — Specify metal stamping tooling: die type, punch and die material and hardness, stroke life, cost drivers, and what buyers should own after the tool is buil
+* **[Stamping Die Maintenance — Specification Guide](https://cliftonprecision.com/services/stamping-die-maintenance.html)** — Stamping die maintenance guide: sharpening intervals, life lost per grind, punch and button wear limits, stripper and guide checks, and first-article drift
